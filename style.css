@@ -1,0 +1,36 @@
+body {
+  font-style:italic;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  /* background-color: #6ee2e6; */
+}
+
+#colorBox {
+  width: 20vw;
+  height: 40vh;
+  background-color: blue;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:x-large;
+  color: rgb(138, 132, 125);
+}
+
+.button{
+  padding: 20px 40px;
+  margin: 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.button:hover{
+  color: brown;
+  background-color:aqua;
+}
+
+
+  
